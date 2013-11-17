@@ -102,13 +102,23 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(288, 43);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(45, 12);
+            this.label1.Size = new System.Drawing.Size(68, 12);
             this.label1.TabIndex = 16;
-            this.label1.Text = "Interval:";
+            this.label1.Text = "Interval(ms):";
             // 
             // numericUpDown1
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(337, 41);
+            this.numericUpDown1.Location = new System.Drawing.Point(362, 40);
+            this.numericUpDown1.Maximum = new decimal(new int[] {
+            100000,
+            0,
+            0,
+            0});
+            this.numericUpDown1.Minimum = new decimal(new int[] {
+            10,
+            0,
+            0,
+            0});
             this.numericUpDown1.Name = "numericUpDown1";
             this.numericUpDown1.Size = new System.Drawing.Size(62, 19);
             this.numericUpDown1.TabIndex = 15;
