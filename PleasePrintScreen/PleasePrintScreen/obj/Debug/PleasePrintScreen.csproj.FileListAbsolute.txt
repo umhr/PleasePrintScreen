@@ -1,0 +1,9 @@
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\bin\Debug\PleasePrintScreen.exe.config
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\bin\Debug\PleasePrintScreen.exe
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\bin\Debug\PleasePrintScreen.pdb
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\obj\Debug\PleasePrintScreen.csprojResolveAssemblyReference.cache
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\obj\Debug\PleasePrintScreen.Form1.resources
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\obj\Debug\PleasePrintScreen.Properties.Resources.resources
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\obj\Debug\PleasePrintScreen.csproj.GenerateResource.Cache
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\obj\Debug\PleasePrintScreen.exe
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\obj\Debug\PleasePrintScreen.pdb

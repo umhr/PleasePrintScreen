@@ -1,0 +1,8 @@
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\bin\Release\PleasePrintScreen.exe.config
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\bin\Release\PleasePrintScreen.exe
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\bin\Release\PleasePrintScreen.pdb
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\obj\Release\PleasePrintScreen.Form1.resources
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\obj\Release\PleasePrintScreen.Properties.Resources.resources
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\obj\Release\PleasePrintScreen.csproj.GenerateResource.Cache
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\obj\Release\PleasePrintScreen.exe
+C:\Users\mba7\Documents\GitHub\PleasePrintScreen\PleasePrintScreen\PleasePrintScreen\obj\Release\PleasePrintScreen.pdb
